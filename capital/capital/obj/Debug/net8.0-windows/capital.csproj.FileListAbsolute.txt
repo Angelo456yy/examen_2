@@ -1,0 +1,17 @@
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\bin\Debug\net8.0-windows\capital.exe
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\bin\Debug\net8.0-windows\capital.deps.json
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\bin\Debug\net8.0-windows\capital.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\bin\Debug\net8.0-windows\capital.dll
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\bin\Debug\net8.0-windows\capital.pdb
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.Form1.resources
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.Properties.Resources.resources
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.csproj.GenerateResource.cache
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.dll
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\refint\capital.dll
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.pdb
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\capital.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\examen\capital\capital\obj\Debug\net8.0-windows\ref\capital.dll

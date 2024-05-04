@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\bin\Debug\net8.0\ver.exe
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\bin\Debug\net8.0\ver.deps.json
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\bin\Debug\net8.0\ver.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\bin\Debug\net8.0\ver.dll
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\bin\Debug\net8.0\ver.pdb
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.dll
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\refint\ver.dll
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.pdb
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ver.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\examen\ver\ver\obj\Debug\net8.0\ref\ver.dll
